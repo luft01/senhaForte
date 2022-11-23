@@ -1,4 +1,5 @@
- [
+ {
+  "produtos" :[
     {
       "id":1,
      "nome":"t-shirt white",
@@ -25,3 +26,4 @@
       "image":"https://www.pngkit.com/png/full/341-3410700_forest-green-t-shirt.png"
     }
   ]
+ }
