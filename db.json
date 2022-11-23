@@ -2,28 +2,51 @@
   "produtos" :[
     {
       "id":1,
-     "nome":"t-shirt white",
+     "nome":"T-shirt white",
+     "price" : 188.99,
       "image":"https://www.transparentpng.com/thumb/shirt/oYBUkZ-white-t-shirt-clipart-hd.png"
     },
     {
       "id":2,
-     "nome":"t-shirt yellow",
+     "nome":"T-shirt yellow",
+     "price" : 158.99,
       "image":"https://www.pngall.com/wp-content/uploads/2016/04/T-Shirt-PNG-Pic.png"
     },
     {
       "id":3,
-     "nome":"t-shirt blue",
+     "nome":"T-shirt blue",
+     "price" : 148.99,
       "image":"https://www.freepnglogos.com/uploads/t-shirt-png/t-shirt-png-blank-shirt-transparent-png-pictures-icons-and-28.png"
     },
     {
       "id":4,
-     "nome":"t-shirt grey",
+     "nome":"T-shirt grey",
+     "price" : 208.00,
       "image":"https://www.pngmart.com/files/22/T-Shirt-PNG-Isolated-Picture.png"
     },
     {
       "id":5,
-     "nome":"t-shirt green",
+     "nome":"T-shirt green",
+     "price" : 99.00,
       "image":"https://www.pngkit.com/png/full/341-3410700_forest-green-t-shirt.png"
+    },
+    {
+      "id":6,
+     "nome":"T-shirt Jaguatirica",
+     "price" : 170.00,
+      "image":"https://images.tcdn.com.br/img/img_prod/967167/camiseta_puma_algodao_masculina_branca_1545_1_a8dfabfa8c406a9ee93b85937c562dca_20211228161022.png"
+    },
+    {
+      "id":7,
+     "nome":"T-shirt Calvinho",
+     "price" : 220.00,
+      "image":"https://www.kindpng.com/picc/m/173-1734311_calvin-klein-calvin-klein-t-shirt-png-transparent.png"
+    },
+    {
+      "id":8,
+     "nome":"T-shirt Riquinho",
+     "price" : 300.00,
+      "image":"https://i.pinimg.com/736x/e4/b8/ea/e4b8ea7a9951c62ad4524fdec25d95df.jpg"
     }
   ]
  }
